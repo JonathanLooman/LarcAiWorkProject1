@@ -46,5 +46,6 @@ Predict whether a client will subscribe to a term deposit based on their demogra
 - A detailed report on the exploratory data analysis with visualizations.
 - The final classification model along with the code used for feature engineering, model building, and hyperparameter tuning.
 - Documentation explaining the approach, feature engineering steps, model selection, and evaluation.
+- Code to perform inference on testing data (bonus point for professionalism of functions)
 
 By following these guidelines, participants will demonstrate their ability to interpret data, engineer features, build and optimize models, and effectively communicate their findings through visualizations and detailed reporting.
